@@ -8,7 +8,7 @@ information about email addresses. Like its namesake detective, it employs advan
 deduction methods combined with modern AI to reveal insights about email addresses
 and their digital footprint.
 
-Author: Your Name
+Author: Hamed Essam
 License: MIT
 Version: 1.0.0
 """
